@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack web develpoment
 - 🌱 I’m currently learning CSS and Javascript
 - 💞️ I’m looking to collaborate on projects that will help me learn 
-- 📫 to reach me send an email to maxmartin5966@gmail.com
+- 📫 to reach me send an email to ajay.d.martin@gmail.com
 
 <!---
 Undifined-element/Undifined-element is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
